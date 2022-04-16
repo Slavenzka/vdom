@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/vdom/static/css/main.1594cfb0.css",
+    "main.js": "/vdom/static/js/main.d039f4b6.js",
+    "static/media/step1_1.jpg": "/vdom/static/media/step1_1.a9a554097d322a8ab918.jpg",
+    "static/media/PFBeauSansPro-Light.woff": "/vdom/static/media/PFBeauSansPro-Light.e18ba73de300627d21c1.woff",
+    "static/media/PFBeauSansPro-Regular.woff": "/vdom/static/media/PFBeauSansPro-Regular.99dd08a295344a085604.woff",
+    "static/media/application___bg--web.png": "/vdom/static/media/application___bg--web.31ed9a32688faca19e57.png",
+    "static/media/PFBeauSansPro-Bold.woff": "/vdom/static/media/PFBeauSansPro-Bold.65d5ab29007ff7c49380.woff",
+    "static/media/step1_2.jpg": "/vdom/static/media/step1_2.c64aa5c3504a57d0b9bb.jpg",
+    "static/media/step2_1.jpg": "/vdom/static/media/step2_1.3ab3819b6acda08967a2.jpg",
+    "static/media/step2_2.jpg": "/vdom/static/media/step2_2.88e15ee92888c8dec4fc.jpg",
+    "static/media/fund_shape.png": "/vdom/static/media/fund_shape.9e8f4b3e82cf2c1b88a6.png",
+    "static/media/fund_details_shape.png": "/vdom/static/media/fund_details_shape.32781b0372a3cf72b270.png",
+    "static/media/PFBeauSansPro-Regular.woff2": "/vdom/static/media/PFBeauSansPro-Regular.5eb6209d306b996f5e6f.woff2",
+    "static/media/PFBeauSansPro-Bold.woff2": "/vdom/static/media/PFBeauSansPro-Bold.74a6ab57659617bc5f05.woff2",
+    "static/media/design_2.jpg": "/vdom/static/media/design_2.5bf7d0ec22a8eedf7e4b.jpg",
+    "static/media/design_3.jpg": "/vdom/static/media/design_3.591ab3d44cb11b2fa7ad.jpg",
+    "static/media/design_1.jpg": "/vdom/static/media/design_1.2c66a166714e87b9eac9.jpg",
+    "static/media/FuturaPTDemi.woff": "/vdom/static/media/FuturaPTDemi.4c58a62d50d2e5082740.woff",
+    "static/media/FuturaPT-Medium.woff": "/vdom/static/media/FuturaPT-Medium.6f7bd87cb58b1811e732.woff",
+    "static/media/FuturaPT-Book.woff": "/vdom/static/media/FuturaPT-Book.d554082b7184cb0a84b7.woff",
+    "static/media/Igor_Gut.jpg": "/vdom/static/media/Igor_Gut.7738b769c4adc8a392ca.jpg",
+    "static/media/Olena_Kim.jpg": "/vdom/static/media/Olena_Kim.5b3cd39d2346affcf8c9.jpg",
+    "static/media/Olga_Shevchenko.jpg": "/vdom/static/media/Olga_Shevchenko.f2fee797548a0d27037e.jpg",
+    "static/media/Vitaly_Koval.jpg": "/vdom/static/media/Vitaly_Koval.8e825804e48bb5e5ad42.jpg",
+    "static/media/FuturaPTDemi.woff2": "/vdom/static/media/FuturaPTDemi.4c42faad0f57952110c6.woff2",
+    "static/media/FuturaPT-Medium.woff2": "/vdom/static/media/FuturaPT-Medium.2ab1b2fb04b2dcfd1bef.woff2",
+    "static/media/FuturaPT-Book.woff2": "/vdom/static/media/FuturaPT-Book.ad56f168e23d283dcc69.woff2",
+    "static/media/icon-arrow.svg": "/vdom/static/media/icon-arrow.87d73771eb2209db7b77.svg",
+    "index.html": "/vdom/index.html",
+    "main.1594cfb0.css.map": "/vdom/static/css/main.1594cfb0.css.map",
+    "main.d039f4b6.js.map": "/vdom/static/js/main.d039f4b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1594cfb0.css",
+    "static/js/main.d039f4b6.js"
+  ]
+}
