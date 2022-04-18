@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/vdom/static/css/main.4264e011.css",
-    "main.js": "/vdom/static/js/main.8ba8c745.js",
+    "main.css": "/vdom/static/css/main.b36684f9.css",
+    "main.js": "/vdom/static/js/main.5b103d36.js",
     "static/media/step1_1.jpg": "/vdom/static/media/step1_1.a9a554097d322a8ab918.jpg",
     "static/media/PFBeauSansPro-Light.woff": "/vdom/static/media/PFBeauSansPro-Light.e18ba73de300627d21c1.woff",
     "static/media/PFBeauSansPro-Regular.woff": "/vdom/static/media/PFBeauSansPro-Regular.99dd08a295344a085604.woff",
@@ -31,11 +31,11 @@
     "static/media/qrBTC.jpg": "/vdom/static/media/qrBTC.87f33b9610b3d1c76652.jpg",
     "static/media/icon-arrow.svg": "/vdom/static/media/icon-arrow.87d73771eb2209db7b77.svg",
     "index.html": "/vdom/index.html",
-    "main.4264e011.css.map": "/vdom/static/css/main.4264e011.css.map",
-    "main.8ba8c745.js.map": "/vdom/static/js/main.8ba8c745.js.map"
+    "main.b36684f9.css.map": "/vdom/static/css/main.b36684f9.css.map",
+    "main.5b103d36.js.map": "/vdom/static/js/main.5b103d36.js.map"
   },
   "entrypoints": [
-    "static/css/main.4264e011.css",
-    "static/js/main.8ba8c745.js"
+    "static/css/main.b36684f9.css",
+    "static/js/main.5b103d36.js"
   ]
 }
